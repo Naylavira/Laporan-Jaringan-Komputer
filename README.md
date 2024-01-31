@@ -12,3 +12,6 @@ Laporan Praktikum Jaringan Komputer "Kabel LAN Ethernet"
 Alat- Alat
 
 1. Kabel UTP (Unshielded Twisted Pair)
+
+
+
