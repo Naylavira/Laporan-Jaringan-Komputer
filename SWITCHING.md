@@ -1,0 +1,1 @@
+[2.5.5 Packet Tracer NAYLA - Configure Initial Switch Settings.pdf](https://github.com/Naylavira/Laporan-Jaringan-Komputer/files/14581308/2.5.5.Packet.Tracer.NAYLA.-.Configure.Initial.Switch.Settings.pdf) 
