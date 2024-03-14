@@ -20,3 +20,9 @@ Klik S2 lalu CLI
 Jika sudah configure S2 akan muncul tulisan congratulations seperti ini
 
 <img width="504" alt="image" src="https://github.com/Naylavira/Laporan-Jaringan-Komputer/assets/151722965/979b351f-d90a-4d3b-ac03-d8589867d689">
+
+jika sudah muncul spt itu artinya sudah 100%, kita lihat lagi tugas2 konfigure apakah sudah tercentang semua
+
+![image](https://github.com/Naylavira/Laporan-Jaringan-Komputer/assets/151722965/b0656f47-087c-468a-8569-d04c5cdf2d1f)
+
+jika sudah tercentang artinya sudah aktif
